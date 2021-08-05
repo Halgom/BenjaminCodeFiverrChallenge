@@ -135,11 +135,14 @@ body {
     color: var(--yellow);
     font-family: gtfr;
     padding: 0 40px;
-    text-align: justify;
 }
 
 .text > * {
     margin: 20px 0;
+}
+
+.text .underline {
+    text-decoration: underline;
 }
 
 .mail-info {
